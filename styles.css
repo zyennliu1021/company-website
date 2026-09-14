@@ -45,11 +45,6 @@ p {
   margin-top: 0;
 }
 
-[contenteditable="true"] {
-  outline-color: rgba(43, 184, 168, 0.4);
-  outline-offset: 4px;
-}
-
 .site-header {
   position: sticky;
   top: 0;
